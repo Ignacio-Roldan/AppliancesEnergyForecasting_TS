@@ -13,7 +13,7 @@ The approach taken is explained inside the code, and it includes:
 
 
 # How to run
-Code is in a Jupiter Notebook, use Anaconda or other platforms compatible with .ipython to run.
+Code is in a Jupiter Notebook, use Anaconda or other platforms compatible with .ipynb to run.
 
 Note that grid search chunks of code take some time to run.
 
