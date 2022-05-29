@@ -3,6 +3,15 @@ Computational Machine Learning - Assignment 2 - Project 2 Code Submission.
 
 This repository contains the code used for assignment 2. This work discuss project alternative 2: Predict Energy Use.
 
+The approach taken is explained inside the code, and it includes: 
+
+- EDA of the dataset, 
+- data preprocessing, 
+- evaluation of a Random Forest,
+- evaluation of a XGBoost, and
+- analysis of removing lag features.
+
+
 # How to run
 Code is in a Jupiter Notebook, use Anaconda or other platforms compatible with .ipython to run.
 
